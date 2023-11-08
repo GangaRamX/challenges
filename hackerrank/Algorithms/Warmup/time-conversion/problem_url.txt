@@ -1,2 +1,2 @@
-Problem URL: https://www.hackerrank.com/challenges/time-conversion
+[Problem URL](https://www.hackerrank.com/challenges/time-conversion)
 
